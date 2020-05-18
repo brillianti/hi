@@ -7,4 +7,4 @@ origin:
 ![Image text](https://github.com/brillianti/hi/blob/master/img-folder/origin.jpg)
 
 results:
-![Image text](https://github.com/brillianti/hi/blob/master/img-folder/origin.jpg)
+![Image text](https://github.com/brillianti/hi/blob/master/img-folder/result.jpg)
